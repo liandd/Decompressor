@@ -1,4 +1,4 @@
-# decompressor
+# Decompressor
 A small script in bash to decompress a file that has a unknown amount of compressed files inside of it for bandit14,
 the script it's usefull because you do not have to be looking one by one the files.
 Once you decompressed content.gzip there is no need to know if the new file it's compressed again and do the same repetitive process.
